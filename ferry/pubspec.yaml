@@ -12,7 +12,7 @@ dependencies:
   gql_exec: ^0.2.4
   ferry_cache: ^0.1.0
   meta: ^1.1.8
-  normalize: ^0.1.1
+  normalize: ^2.0.0
   collection: ^1.14.12
 dev_dependencies:
   test: ^1.9.4
